@@ -35,4 +35,4 @@ cd yay
 makepkg -rsi --noconfirm
 cd .. && rm -rf yay
 
-echo "Finished isntalling"
+echo "Finished installing"
