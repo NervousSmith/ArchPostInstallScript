@@ -25,4 +25,4 @@ sudo pacman -Syu
 
 echo "Installing packages"
 
-sudo pacman -S solaar libreoffice-fresh okular 7zip discord flatpak base-devel neovim wine gamemode gamescope steam partitionmanager mission-center kate libreoffice-fresh-pl powerdevil git --noconfirm  
+sudo pacman -S solaar libreoffice-fresh okular 7zip discord flatpak base-devel wine gamemode gamescope steam partitionmanager kate libreoffice-fresh-pl powerdevil git --noconfirm  
